@@ -27,9 +27,14 @@ of dit:
 pip install jupyterlab matplotlib pandas
 ```
 
+4) voer het volgende ook nog uit
+```bash
+jupyter lab build --dev-build=False --minimize=False
+```
 
 ## start jupyter lab
 Starten doe je gewoon met 'jupyter-lab' vanuit je python venv.
 Dit zal tevens jouw browser openen en verbinen met jouw jupyterlab sessie.
 
 
+De Jupyter Notebook ziet er zo uit: [koffie.ipynb](./koffie.ipynb)

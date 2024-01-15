@@ -1,5 +1,7 @@
 # koffie
-differentiequotiënt
+
+Gebruik demonstreren van python en enkele packages met behulp van differentiequotiënt.
+
 
 ## Intro
 
